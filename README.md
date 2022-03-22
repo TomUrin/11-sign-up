@@ -13,9 +13,10 @@ Design: [Sign up](https://dribbble.com/shots/6857288/attachments/6857288-Yoga-st
 ## Project features
 
 -   Github pages
--   fixed width container
--   header: logo + nav
--   png images
+-   HTML form
+-   CSS background images
+-   CSS position absolute
+-   CSS blur effect
 
 ## Authors
 
