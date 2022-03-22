@@ -14,8 +14,9 @@ Design: [Sign up](https://dribbble.com/shots/6857288/attachments/6857288-Yoga-st
 
 -   Github pages
 -   HTML form
--   CSS style
--   CSS blur
+-   CSS background images
+-   CSS position absolute
+-   CSS blur effect
 
 ## Authors
 
